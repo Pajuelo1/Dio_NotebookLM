@@ -41,6 +41,9 @@ Fontes abertas (texto/PDF) selecionadas e carregadas no NotebookLM:
 
 ### Variações de prompt testadas
 
-> `[PREENCHER]` — Registre aqui, para cada pergunta acima, pelo menos duas variações de prompt que você testou no NotebookLM (ex: pergunta direta vs. pedido de "resuma comparando as fontes X e Y"), e cole um resumo da resposta obtida com a citação da fonte que o NotebookLM apontou.
+Liste, fonte por fonte, os principais tópicos abordados sobre orçamento pessoal e reserva de emergência.
+Quais das fontes carregadas tratam especificamente de reserva de emergência? Cite o trecho relevante de cada uma.
+Quais categorias de despesa as fontes recomendam separar em um orçamento (fixas, variáveis, etc.)?
+Segundo as fontes, qual o valor ideal de uma reserva de emergência e como calculá-lo?
 
 Modelo de registro sugerido:
